@@ -4,6 +4,8 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://m2a9x45.github.io',
+  base: '/docs-v2',
   integrations: [
     starlight({
       title: "Monzo",
