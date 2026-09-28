@@ -13,7 +13,7 @@ export default defineConfig({
         src: './src/assets/monzo.png',
         replacesTitle: true,
       },
-      favicon: '/favicon.ico',
+      favicon: '/docs-v2/favicon.ico',
       customCss: [
         './src/styles/custom.css'
       ],
